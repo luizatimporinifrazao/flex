@@ -1,0 +1,137 @@
+.linha1{
+    display:flex;
+   
+    
+}
+.box{
+    
+    text-align: center;
+    background-color: rgb(211, 157, 255);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+    
+    
+}
+.linha2{
+    display:flex;
+    justify-content:center;
+    
+}
+.box2{
+    text-align: center;
+    background-color: rgb(187, 72, 233);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
+
+.linha3{
+    display:flex;
+    justify-content:flex-end;
+    
+}
+.box3{
+    text-align: center;
+    background-color: rgb(128, 10, 175);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
+
+.linha4{
+    display:flex;
+    justify-content:space-between;
+    
+}
+.box4{
+    text-align: center;
+    background-color: rgb(175, 10, 125);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
+.linha5{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.box5{
+    text-align: center;
+    background-color: rgb(224, 24, 164);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
+.linha6{
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+.box6{
+    text-align: center;
+    background-color: rgb(250, 108, 207);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
+.linha7{
+    display:flex;
+    justify-content:center;
+    
+    
+}
+.box7{
+    text-align: center;
+    background-color: rgb(248, 132, 233);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
+
+.linha8{
+    display:flex;
+    justify-content:space-between;
+    
+}
+.box8{
+    text-align: center;
+    background-color: rgb(219, 69, 207);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+}  
+.linha9{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.box9{
+    text-align: center;
+    background-color: rgb(224, 24, 164);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}  
+.linha10{
+    display:flex;
+    justify-content:center;
+
+    
+}
+.box10{
+    text-align: center;
+    background-color: rgb(245, 0, 122);
+    width:50px;
+    height: 50px;
+    border: 1px solid black;
+    
+}
